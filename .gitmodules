@@ -1,0 +1,3 @@
+[submodule "driade.laravel-book/laravel-book"]
+	path = driade.laravel-book/laravel-book
+	url = https://github.com/driade/laravel-book

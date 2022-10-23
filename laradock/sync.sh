@@ -1,1 +1,1 @@
-cp -rf /root/laravel_docker_learn/web/project_tuan_learning/ /media/sf_tuanlearning-laravel/laradock/
+cp -rf ~/laravel_docker_learn/web/project_tuan_learning/ /media/sf_tuanlearning-laravel/laradock/

@@ -19,7 +19,7 @@ sudo git config --system user.email "tuan.nguyen@brtchip.com"
 sudo git config --system core.autocrlf input
 
 # lavadock with apache2, mysql
-cd /root/
+cd ~/
 mkdir laravel_docker_learn
 cd laravel_docker_learn
 git clone https://github.com/LaraDock/laradock.git
